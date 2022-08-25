@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Camilo Piñeres
+### <h1> Hi there 👋 I'm Camilo Piñeres </h1>
 
 <h1> Hello Friends < I do not want to stop/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
@@ -7,7 +7,6 @@
 <div size='20px'> Hi! My name is Camilo. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
     
-<img width="30%" align="" alt="Github" src="https://media.giphy.com/media/10ppffwhOftLy0/giphy.gif" />
 
 <h2> About Me </h2>
 
