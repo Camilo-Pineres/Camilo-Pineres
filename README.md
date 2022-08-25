@@ -16,7 +16,7 @@
 
 - 🖥 I’m currently working for Municipality of Ibagué.
   
-- 🧩 I’m currently learning Git, Java, GitHub Javascript and Phyton.
+- 🧩 I’m currently learning Git, Java, GitHub, SQL, Javascript and Phyton.
   
 - 🏂 I like to Learn more about English, Programing and I'm a Music Producer.
   
