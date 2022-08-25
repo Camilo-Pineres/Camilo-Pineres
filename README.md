@@ -7,10 +7,12 @@
 <div size='20px'> Hi! My name is Camilo. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
     
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<img width="30%" align="" alt="Github" src="https://media.giphy.com/media/10ppffwhOftLy0/giphy.gif" />
+
+<h2> About Me </h2>
 
     
- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+ <img width="40%" align="right" alt="Github" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" />
 
 - 🖥 I’m currently working for Municipality of Ibagué.
   
