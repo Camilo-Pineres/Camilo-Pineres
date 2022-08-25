@@ -16,10 +16,10 @@
 
 - 🖥 I’m currently working for Municipality of Ibagué.
   
-- 🧩 I’m currently learning Git, Java, GitHub and Phyton.
+- 🧩 I’m currently learning Git, Java, GitHub Javascript and Phyton.
   
-- 🏂 I’m looking to Learn more about programing, I am a Music Producer.
+- 🏂 I like to Learn more about English, Programing and I'm a Music Producer.
   
 
 
-Credits: [Aditya Deshmukh](https://github.com/Aditya664)
+
