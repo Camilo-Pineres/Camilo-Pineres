@@ -20,7 +20,7 @@
   
 - 🧩 I’m currently learning Git, Java, GitHub, SQL, Javascript and Phyton.
   
-- 🏂 I like to Learn more about English, Programing and I'm a Music Producer.
+- 🏂 I like English, Programing and I'm a Music Producer.
   
 
 
