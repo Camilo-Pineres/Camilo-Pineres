@@ -16,11 +16,10 @@
     
  <img width="25%" align="right" alt="Github" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" />
 
-- 🖥 I’m currently working for Municipality of Ibagué.
-  
+ 
 - 🧩 I’m currently learning Git, Java, GitHub, SQL, Javascript and Phyton.
   
-- 🏂 I like English, Programing and I'm a Music Producer.
+- 🏂 I like Languages, Programing, Robots and Music.
   
 
 
